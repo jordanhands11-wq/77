@@ -1,0 +1,6 @@
+{
+  "name": "77 TRADE IT",
+  "description": "Institutional-grade cryptocurrency paper trading terminal, quantitative strategy backtester, and risk analytics platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
